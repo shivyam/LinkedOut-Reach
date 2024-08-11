@@ -6,7 +6,7 @@ You've heard of LinkedIn. Now introducing LinkedOutReach—a platform designed t
 
 Let’s be honest, with everything on your plate, who has the time to craft and format the perfect networking email? LinkedOutReach simplifies the process, helping you make meaningful connections without the stress. Get started with ease, and focus on what really matters—growing your career.
 
-LinkedOutReach leverages state-of-the-art NLP and machine learning techniques to scrape a user's LinkedIn profile data and cross-reference it against LinkedIn's very own dataset of all its public users via its own API to match the user with people with built existing platforms that share similarities and uses these commonalities to craft a personalised example message that the user can send to get to grip with connecting with other people
+LinkedOutReach leverages state-of-the-art NLP and machine learning techniques to scrape a user's LinkedIn profile data and cross-reference it against LinkedIn's very own dataset of all its public users via its own API to match the user with people with built existing platforms that share similarities and uses these commonalities to craft a personalised example message that the user can send to connect with other people.
 
 
 ## Tech Stack & Requirements
