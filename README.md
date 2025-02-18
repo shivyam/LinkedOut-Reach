@@ -19,7 +19,7 @@ LinkedOutReach leverages state-of-the-art NLP and machine learning techniques to
 - React
 - Typescript
 
-**Backend End:** 
+**Backend:** 
 - Python
 - Flask
 
